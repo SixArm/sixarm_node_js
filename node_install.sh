@@ -13,11 +13,11 @@ cd /opt/node
 #   git clone --depth 1 https://github.com/joyent/node.git && cd node
 #
 # To download a particular version of node as a file:
-#   wget http://nodejs.org/dist/node-v0.4.4.tar.gz
+#   wget http://nodejs.org/dist/v0.5.9/node-v0.5.9.tar.gz
 
-wget http://nodejs.org/dist/node-v0.4.4.tar.gz
-tar -zxvf node-v0.4.4.tar.gz
-cd node-v0.4.4.tar.gz
+wget http://nodejs.org/dist/v0.5.9/node-v0.5.9.tar.gz
+tar -zxvf node-v0.5.9.tar.gz
+cd node-v0.5.9.tar.gz
 
 # Step 3. build node.
 
